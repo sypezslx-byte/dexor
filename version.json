@@ -1,7 +1,7 @@
 {
   "version": "1.0.5",
   "productName": "Dexor V1.0",
-  "releaseDate": "05.10.2026",
-  "releaseNotes": "Pencere acilis ve GPU stabilite duzeltmesi",
+  "releaseDate": "07.10.2026",
+  "releaseNotes": "Yeni optimizasyonlar ve sanal masaüstü (Win+Tab) duvar kağıdı düzeltmesi uygulandı.",
   "downloadUrl": "https://github.com/sypezslx-byte/dexor/releases/download/v1.0.5/app.asar"
 }
