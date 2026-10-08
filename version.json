@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "productName": "Dexor V1.0",
-  "releaseDate": "07.10.2026",
-  "releaseNotes": "Tüm otomatik güncelleme sorunları çözüldü (İndirme çubuğu ve sonsuz döngü düzeltmesi).",
-  "downloadUrl": "https://github.com/sypezslx-byte/dexor/releases/download/v1.0.6/app.asar"
+  "releaseDate": "09.10.2026",
+  "releaseNotes": "Otomatik güncelleme sorunları, resimler ve VBScript hataları tamamen çözüldü.",
+  "downloadUrl": "https://github.com/sypezslx-byte/dexor/releases/download/v1.0.7/app.asar"
 }
